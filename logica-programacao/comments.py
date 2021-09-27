@@ -1,7 +1,5 @@
 """
-
-Documentation: Triple double-quoted strings should be used for docstrings. 
-
+Documentation: Triple double-quoted strings should be used for docstrings.
 """
 
 # Commenter
