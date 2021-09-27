@@ -1,6 +1,11 @@
 """
 while condition:
-    ...
+continue
+break
+while condition:
+    while condition:
+while / else
+
 """
 x = 0
 while x < 10:
@@ -31,3 +36,12 @@ while x < 10:
     x += 1
 
 print('finish')
+
+counter = 1
+accumulator = 1
+while counter <= 10:
+    print(counter, accumulator)
+    accumulator += counter
+    counter += 1
+else:
+    print('while condition false')
